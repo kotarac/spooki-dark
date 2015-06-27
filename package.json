@@ -1,0 +1,15 @@
+{
+  "name": "spooki-dark",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Dark blue-white theme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/kotarac/spooki-dark",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
